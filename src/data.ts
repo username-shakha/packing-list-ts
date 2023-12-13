@@ -1,0 +1,15 @@
+export const data = [
+  { name: 'Air Pods', packed: true, id: 1 },
+  { name: 'mac book pro', packed: false, id: 2 },
+  { name: 'swiming basket', packed: true, id: 3 },
+  { name: 'Apple 14 Pro Max', packed: true, id: 4 },
+  { name: 'lenovo desktop laptop', packed: true, id: 5 },
+  { name: 'USB-C cable', packed: false, id: 1702376138087 },
+  { name: 'lightning cable', packed: false, id: 1702376141874 },
+  { name: 'Wallet', packed: false, id: 1702376146489 },
+  { name: 'magSafe cable', packed: true, id: 1702376158339 },
+  { name: 'Apple Watch charger', packed: false, id: 1702376161649 },
+  { name: 'kindle', packed: false, id: 1702376165926 },
+  { name: 'Face masks', packed: true, id: 1702376168462 },
+  { name: 'sony walkman', packed: false, id: 1702376171396 },
+]
